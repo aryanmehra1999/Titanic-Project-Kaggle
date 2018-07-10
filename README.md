@@ -1,6 +1,8 @@
 # Titanic-Project-Kaggle
 
-This is my code for the Titanic Project on Kaggle. It focuses more on the Data Munging aspect and less on the predictive model and thus simply uses a logistic regression from sklearn.
+This is my code for the Titanic Project on Kaggle ( https://www.kaggle.com/c/titanic )
+
+It focuses more on the Data Munging aspect and less on the predictive model and thus simply uses a logistic regression from sklearn.
 The code is beginer friendly and gives extensive know how of the Data Munging and various functions in the code through comments etc. 
 
 The description of each file is as followes:
