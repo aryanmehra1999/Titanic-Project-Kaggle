@@ -2,7 +2,7 @@
 
 This is my code for the CodeFunDo++ Challenge using the Titanic Project on Kaggle ( https://www.kaggle.com/c/titanic )
 
-It focuses more on the Data Munging aspect and thus simply uses a logistic regression from sklearn. It depicts how survival in human made disasters can be predicted using various factors. The project will and can be further extended to survival in disasters like floods, hurricanes and their dependance on altitude, residence etc.
+It focuses more on the Data Munging aspect as of now and thus simply uses a logistic regression from sklearn. This will be extended to new situations and the model will be a neural network. It depicts how survival in human made disasters can be predicted using various factors. The project will and can be further extended to survival in disasters like floods, hurricanes and their dependance on altitude, residence etc.
 
 The code is beginer friendly and gives extensive know how of the Data Munging and various functions in the code through comments etc. 
 
